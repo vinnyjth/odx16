@@ -1,0 +1,1 @@
+Test: ruby -Ilib:test ./tests/test_machine.rb
